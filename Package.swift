@@ -14,7 +14,7 @@ let package = Package(
          name: "smartSummariesFeature",
          url: "https://github.com/cjgsaunders/testpackage/releases/download/1/smartSummariesFeature.xcframework.zip",
          //url: "https://github.com/sky-uk/smart-summaries-kmp/releases/download/1/smartSummariesFeature.xcframework.zip",
-         checksum:"d903daf40f816707eba08fafd9a615a9b0bb15015fcfef05bdcafab99c8b1ad1")
+         checksum:"b996b6e433fc20a9b7959546fb395c6927fbf1f6bedc3f859377095ea4aa2251")
    //  .binaryTarget(
    //          name: "smartSummariesFeature",
    //          path: "smartSummariesFeature.xcframework.zip"
